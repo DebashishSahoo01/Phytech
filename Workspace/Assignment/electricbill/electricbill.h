@@ -1,0 +1,2 @@
+void rural();
+void urban();

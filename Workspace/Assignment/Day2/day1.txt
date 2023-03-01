@@ -1,0 +1,3 @@
+welcome to sdi sdi
+you are now in second batch of sdi thanks for such an warm welcome 
+now lets byyyyyyyynow append is done sucessfully by using the fseek methodit is an appending with reading functionn
